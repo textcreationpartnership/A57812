@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cry of the oppressed for justice: or, The case of Thomas Rudd Who was imprisioned and whipped through several streets of the town of Leverpool, in the County of Lancaster, by the order of the then mayor of the said town, for going through the streets thereof, and exhorting the people to fear God. With a letter written by the said Thomas Rudd, to Thomas Sweeting, mayor of Leverpool.</title>
+            <author>Rudd, Thomas, d. 1719.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57812</idno>
+            <idno type="STC">Wing R2171A</idno>
+            <idno type="STC">ESTC R218480</idno>
+            <idno type="EEBO-CITATION">99830067</idno>
+            <idno type="PROQUEST">99830067</idno>
+            <idno type="VID">34516</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57812)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34516)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2017:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cry of the oppressed for justice: or, The case of Thomas Rudd Who was imprisioned and whipped through several streets of the town of Leverpool, in the County of Lancaster, by the order of the then mayor of the said town, for going through the streets thereof, and exhorting the people to fear God. With a letter written by the said Thomas Rudd, to Thomas Sweeting, mayor of Leverpool.</title>
+                  <author>Rudd, Thomas, d. 1719.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by T. Sowle, in White-Hart-Court in Gracious-street, and at the Bible in Leaden-Hall-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on pg. 3: The case of Thomas Rudd.</note>
+                  <note>Identified on UMI microfilm (Early English books, 1641-1700) reel 2017 as Wing R2171A.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Persecution --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34516:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <p>
+               <hi>The Cry of the Oppreſſed</hi> FOR JUSTICE: OR, The CASE of <hi>Thomas Rudd,</hi> Who was Impriſoned and Whipped through ſeveral Streets of the Town of <hi>Leverpool,</hi> in the County of <hi>Lancaſter,</hi> by the Order of the then <hi>Mayor</hi> of the ſaid Town, for going through the Streets thereof, and Exhorting the People to <hi>Fear God.</hi>
+            </p>
+            <p>WITH A Letter written by the ſaid <hi>Thomas Rudd,</hi> to <hi>Thomas Sweeting,</hi> Mayor of <hi>Leverpool.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious<g ref="char:EOLhyphen"/>ſtreet,</hi> and at the <hi>Bible</hi> in <hi>Leaden-Hall-Street,</hi> 1700.</p>
+            <pb facs="tcp:34516:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 26 -->
+            <pb facs="tcp:34516:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 26 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34516:3"/>
+            <!-- PDF PAGE 27 -->
+            <pb n="3" facs="tcp:34516:3"/>
+            <!-- PDF PAGE 27 -->
+            <head>
+               <hi>THE</hi> CASE of Thomas Rudd.</head>
+            <p>WHEREAS <hi>Thomas Rudd</hi> of <hi>Wharf,</hi> near <hi>Settle,</hi> in <hi>Yorkſhire,</hi> by Trade a <hi>Miller,</hi> of a ſober Life, and orderly Converſa<g ref="char:EOLhyphen"/>tion, one of the People called <hi>Quakers,</hi> had a Con<g ref="char:EOLhyphen"/>cern upon his Mind, in a Serious and Religious man<g ref="char:EOLhyphen"/>ner, to go through the Streets of <hi>Leverpool</hi> in <hi>Lanca<g ref="char:EOLhyphen"/>ſhire,</hi> to Warn the People to Fear and Dread the great God; was, by the <hi>Mayor</hi> of that Town, <hi>Thomas Sweeting,</hi> by Trade a Linnen-Draper, ſeveral times ta<g ref="char:EOLhyphen"/>ken up, and committed to Priſon; and by other <hi>Magi<g ref="char:EOLhyphen"/>ſtrates</hi> of the ſame Town was ſent to the <hi>Houſe of Correction;</hi> and had his <hi>Mare</hi> taken from him, and ſold, and no part of the Money given or tender'd to him, but pretended part thereof to be expended for Charges, in carrying him to the <hi>Houſe of Cor<g ref="char:EOLhyphen"/>rection,</hi> and the reſt to be given to the Poor.</p>
+            <p>And after this, being again concerned to go through the Streets of the ſame Town, was again taken up, and put in <hi>Priſon,</hi> by the aforeſaid <hi>Mayor</hi>'s Order, and kept above Two Weeks in <hi>Priſon;</hi> where <hi>Thomas Roe,</hi> Serjeant, that keeps the Priſon, would not ſuffer the Iron Door of the ſaid Priſon to be opened, to get a Bed in for him to lie upon, all the time, nor any other thing, but what could be got through the the Square Grates of the ſaid Door,
+<pb n="4" facs="tcp:34516:4"/>
+               <!-- PDF PAGE 28 -->or Hole in the Wall; pretending the <hi>Mayor</hi>'s Order for the ſame.</p>
+            <p>And when other <hi>Juſtices</hi> Signed a Warrant for to ſend him from <hi>Conſtable</hi> to <hi>Conſtable,</hi> to his own home; Nevertheleſs, The ſaid <hi>Mayor</hi> cauſed <hi>Thomas Rudd</hi> to be Whipp'd (without the other <hi>Juſtices</hi> Know<g ref="char:EOLhyphen"/>ledge, and contrary to their Order, as they ſaid) through ſome of the Streets of the ſaid Town of <hi>Leverpool;</hi> and called to the Man that whipp'd him, (<hi>You</hi> or <hi>Thou Rogue</hi>) Lay on, becauſe <hi>Thomas</hi> de<g ref="char:EOLhyphen"/>manded Juſtice of him. Which <hi>Cruelty,</hi> how be<g ref="char:EOLhyphen"/>coming it is for any pretending to be <hi>Chriſtian Magiſtrates,</hi> to execute upon any ſober Man, only for Exhorting People to Fear and Dread the great God, or Demanding Juſtice, we leave to the Truly <hi>Chriſtian</hi> to judge; and whether hereby theſe <hi>Ma<g ref="char:EOLhyphen"/>giſtrates</hi> have not acted contrary to the <hi>Chriſtian Doctrine</hi> of the Holy Apoſtle, who ſaith, <hi>Rulers are not a Terror to Good Works, but to Evil: He is the Miniſter of God, a Revenger, to Execute Wrath upon him that doth Evil; not upon them that do Well, and Exhort to Fear God;</hi> as King <hi>Jehoſaphat</hi> charged them that he ſet for Judgment, to Act in the Fear of the Lord.</p>
+            <p>And our preſent King <hi>William,</hi> in his late <hi>Pro<g ref="char:EOLhyphen"/>clamation,</hi> ſaith, <hi>We do expect, that all Perſons of Honour or Authority ſhould contribute to the Diſ<g ref="char:EOLhyphen"/>countenancing Men of Diſſolute and Debauched Lives;</hi> and ſtrictly Charges and Commands all his <hi>Mayors, Juſtices,</hi> &amp;c. to be <hi>Vigilant</hi> in Puniſhing all Perſons guilty of <hi>Exceſſive Drinking, Profane Swearing,</hi> &amp;c. as they will anſwer it upon Pain of his Higheſt Diſpleaſure.</p>
+            <pb n="5" facs="tcp:34516:4"/>
+            <!-- PDF PAGE 28 -->
+            <p>And the late Queen, in her Letter, complained of the <hi>Neglect and Connivance of the Magiſtrates, in not putting in Execution thoſe Laws againſt Profane Swear<g ref="char:EOLhyphen"/>ing and Curſing, and all other Lewd and Erroneous Practices.</hi>
+            </p>
+            <p>And the Houſe of Commons, in their <hi>Addreſs to the King,</hi> deſires, That His <hi>Majeſty would Effectually Diſ<g ref="char:EOLhyphen"/>courage Profaneneſs; and that he would Iſſue out his Royal Proclamation, Commanding all Juſtices of the Peace, and other Magiſtrates, to put in ſpeedy Execu<g ref="char:EOLhyphen"/>tion theſe Laws in Force againſt Profaneneſs and Im<g ref="char:EOLhyphen"/>morality.</hi>
+            </p>
+            <p>But the <hi>Mayor</hi> of <hi>Leverpool</hi> hath Impriſoned, and cauſed a Man to be Whip'd, not for Profane Swearing, Curſing, or any Lewd or Erroneous Action, but for Exhorting People to Fear God, and telling them, the Lord would Puniſh, becauſe of Sin: Which the King, in his <hi>Proclamation,</hi> declares, <hi>Nothing is likelier to Provoke God to withdraw his Mercy, and to Inflict Heavy and Severe Judgments upon this Kingdom, than the open and avowed Practice of Vice.</hi>
+            </p>
+            <p>And the Queen did Require, <hi>That where any Officer of Juſtice ſhall be guilty of any of theſe Offences afore<g ref="char:EOLhyphen"/>mentioned, that ſuch Officer by his Puniſhment may ſerve for an Example to others.</hi> But ſhe never direct<g ref="char:EOLhyphen"/>ed, That Men, Fearing God, of Honeſt Lives, and Chriſtian Converſations, ſhould be Impriſoned and Whipped, for Exhorting People to Fear God, which is every Chriſtian's Duty.</p>
+            <p>But this <hi>Mayor</hi> of <hi>Leverpool</hi> hath cauſed a Man to be Impriſon'd and Whipp'd, for Exhorting Peo<g ref="char:EOLhyphen"/>ple to Fear God. But how many he hath (in diſ<g ref="char:EOLhyphen"/>charge of his Duty, purſuant to Law, and in Obe<g ref="char:EOLhyphen"/>dience to the King's Proclamation, and the Queen's
+<pb n="6" facs="tcp:34516:5"/>
+               <!-- PDF PAGE 29 -->Letter, and his own Oath) Proſecuted for Swear<g ref="char:EOLhyphen"/>ing, Curſing, or any other Vice, or Lewd Diſor<g ref="char:EOLhyphen"/>derly Practices, let the Inhabitants of that Town witneſs.</p>
+            <p>And how true he hath been to his Oath, and the other Juſtices of the Peace of <hi>Leverpool,</hi> have anſwered theirs, who are Sworn to keep, as well as cauſe to be kept, all Ordinances and Statutes, made for the good of the Peace; and to Chaſtize and Puniſh all Perſons in the ſaid County offend<g ref="char:EOLhyphen"/>ing; but not to puniſh any contrary to Law, and for Exhorting People to Fear God.</p>
+            <p>And can any believe this is the way to carry on the <hi>Reformation,</hi> ſo Earneſtly Preſſed for by the <hi>Church</hi> of <hi>England,</hi> and by <hi>Twenty Seven Lords, Seven Biſhops,</hi> and <hi>Seven Judges,</hi> Eſpouſed by the City of <hi>London?</hi> Or to <hi>
+                  <g ref="char:V">Ʋ</g>nite the Hearts of the King's Proteſtant Subjects in Intereſt and Affection,</hi> thus to Treat a Man for Exhorting People to Fear God? How agreeable is this to his Oath, as Re<g ref="char:EOLhyphen"/>cited in Page 36. of the <hi>Account</hi> of the <hi>Society</hi> for <hi>Reformation of Manners,</hi> &amp;c. <hi>That he ſhall do Legal Right to the Poor, and to the Rich after his Cunning, Wit, and Power, and after the Laws and Cuſtoms of the Realm?</hi> Which is not to puniſh any for Fear<g ref="char:EOLhyphen"/>ing God, or Exhorting thereunto; but thoſe that Curſe or Swear in Ale-Houſes, Taverns, Bowling-Greens, Coffee-Houſes, or other Pulick Places, as Markets, or Streets, or Fairs; and are Drunk, and found in Lewd, Debauched and Diſorderly Practices. And how many hath this <hi>Mayor,</hi> purſuant to his Oath, and in diſcharge of his Duty, Puniſhed for theſe Offences, as aforeſaid, let the Town of <hi>Lever<g ref="char:EOLhyphen"/>pool</hi> witneſs for, or againſt him herein.</p>
+            <pb n="7" facs="tcp:34516:5"/>
+            <!-- PDF PAGE 29 -->
+            <p>And this <hi>Thomas Rudd</hi> hath been concerned, in like manner, to go through the Streets of <hi>London,</hi> and met with no ſuch Treatment from any of the Magiſtrates there; and he hath alſo gone through the Streets of <hi>Briſtol,</hi> and met with no ſuch Treatment: The <hi>Mayor</hi> of that City did not diſcourage him in that Service. And ſurely there is great need of it in all the Cities, Towns and Villages of this Nation; for many, that have not this <hi>Fear of God</hi> before their Eyes, are too fre<g ref="char:EOLhyphen"/>quently found in many of the Evils afore-mentioned; which is not only to the Diſhonour of God, and Scandal of the Chriſtian Religion, but contracts Guilt upon the Souls of them that are found there<g ref="char:EOLhyphen"/>in, and Provokes God to ſend Judgments upon this Nation, and the Inhabitants thereof: Which, it's our Earneſt Cry, and Fervent Prayer unto God, That he would Divert, if it be his Bleſſed Will, and Incline the Hearts of the People to Live in his Fear, that they may know him to Teach them, ſo that they may Live therein, and Enjoy his Bleſſing here, and Dye in his Favour, that they may be Eternally Happy hereafter.</p>
+            <div type="letter">
+               <pb n="8" facs="tcp:34516:6"/>
+               <!-- PDF PAGE 30 -->
+               <head>Here follows a Letter from the ſaid <hi>Thomas Rudd,</hi> to the ſaid <hi>Mayor.</hi>
+               </head>
+               <opener>
+                  <salute>Thomas Sweeting,</salute>
+               </opener>
+               <p>As thou art <hi>Mayor,</hi> and Profeſſeth to be a <hi>Chri<g ref="char:EOLhyphen"/>ſtian Magiſtrate,</hi> I Deſire and Demand of thee my <hi>Chriſtian Liberty,</hi> to Clear my Conſcience in Obe<g ref="char:EOLhyphen"/>dience to God; and that I may have Juſtice done me, in what hath been wrongfully taken from me; and that thou may put a ſtop to Evil-doers in their Evil-doings. This laſt Night, in this very Houſe, they were Drink<g ref="char:EOLhyphen"/>ing, Fiddling, Dancing, Curſing and Swearing, and calling upon God to Damn them, not only till Mid<g ref="char:EOLhyphen"/>night, but until Day-light: And if ſuch Evil-doers and Evil-doings be Tolerated, or ſuffered to go Free; and the Innocent, and ſuch as come in Obedience to God, to call to People to <hi>Fear God,</hi> made to Suffer, will not God Judge for ſuch things?</p>
+               <closer>
+                  <signed>
+                     <hi>From thy Friend, and all Peoples, In Sincerity and Truth,</hi> Thomas Rudd.</signed>
+                  <dateline>Leverpool-Priſon, <date>
+                        <hi>the 6th of the 4th Month, 1699,</hi>
+                     </date>
+                  </dateline>
+               </closer>
+               <pb facs="tcp:34516:6"/>
+               <!-- PDF PAGE 30 -->
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
